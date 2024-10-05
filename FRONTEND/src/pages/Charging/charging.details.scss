@@ -1,0 +1,31 @@
+.mClass {
+    cursor: pointer;
+  }
+  
+  .loader2 {
+    position: absolute;
+    left: 44%;
+    top: 38vh;
+    height: 150px !important;
+    width: 150px !important;
+  }
+
+.timeDivBox {
+  border: 0.5px solid #eae1e1;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.dayDivBox {
+  border: 0.5px solid #eae1e1;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.timeSlot{
+  background: #cffce0;
+  border-radius: 11px;
+  margin-top: 22px;
+  padding: 5px;
+  text-align: center;
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="12px" viewBox="0 0 11 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>downimage</title>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dashboard" transform="translate(-889.000000, -526.000000)" fill="#FF3366" fill-rule="nonzero">
+            <g id="Group-12" transform="translate(827.000000, 453.000000)">
+                <g id="Group-7" transform="translate(16.000000, 70.000000)">
+                    <g id="downimage" transform="translate(51.824219, 9.000000) scale(1, -1) translate(-51.824219, -9.000000) translate(46.824219, 3.000000)">
+                        <path d="M5.01579484,0 C4.74057463,0 4.5172075,0.224 4.5172075,0.5 L4.5172075,10.47475 L0.889486006,6.65525 C0.699773522,6.4555 0.384417029,6.44725 0.184483506,6.638 C-0.0149514307,6.8285 -0.0226795344,7.14475 0.167282242,7.34475 L4.31054305,11.707 C4.49900906,11.896 4.74929991,12 5.01579484,12 C5.28204048,12 5.53258062,11.896 5.72927332,11.69825 L9.86405814,7.34475 C10.0540199,7.14475 10.0460425,6.8285 9.84685688,6.638 C9.64767124,6.44725 9.33206545,6.45525 9.14210367,6.65525 L5.51438218,10.49075 L5.51438218,0.5 C5.51438218,0.224 5.29101505,0 5.01579484,0 Z" id="Path" transform="translate(5.015625, 6.000000) scale(1, -1) translate(-5.015625, -6.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
