@@ -4,9 +4,7 @@ const bodyParser = require('body-parser');
 const mysql = require('mysql2');
 const path = require('path');
 const winston = require('winston');
-const vendorController = require('./routers/vendor-controller.js');
 const userController = require('./routers/user-controller.js');
-const dashboardController = require('./routers/dashboard-controller.js');
 const envFile = `.env.${process.env.NODE_ENV || 'development'}`;
 require('dotenv').config({ path: envFile });
 
