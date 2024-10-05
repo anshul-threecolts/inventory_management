@@ -1,0 +1,40 @@
+@use "/src/variables";
+
+.react-datepicker__current-month,
+.react-datepicker-time__header,
+.react-datepicker-year-header {
+  margin-top: 0 !important;
+  color: #000 !important;
+  font-weight: bold !important;
+  font-size: 0.944rem !important;
+  display: none !important;
+}
+
+.react-datepicker__month-select {
+  background: none !important;
+  border: none !important;
+  appearance: none;
+  font-weight: bold;
+}
+
+.react-datepicker__year-select {
+  background: none !important;
+  border: none !important;
+  appearance: none;
+  font-weight: bold;
+}
+
+.date-pick {
+  .react-datepicker-wrapper {
+    width: 100%;
+    .react-datepicker__input-container {
+      width: 100%;  
+      input {
+        width: 100%;
+      }
+    }
+  }
+}
+
+
+
